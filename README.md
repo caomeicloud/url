@@ -1,5 +1,4 @@
-![image]()
-<img src="https://github.com/caomeicloud/url/blob/master/logo-shu.068cf5f9.png" width="50%" height="50%">
+<img src="https://github.com/caomeicloud/url/blob/master/logo-shu.068cf5f9.png" width="30%" height="30%">
 ## CMYNetwork｜红莓网络 官网网址发布，请大家Ctrl+D收藏此页面避免丢失！
 
 ## 永久官网: <br>https://cmy.network
