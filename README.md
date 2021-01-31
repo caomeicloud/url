@@ -1,10 +1,10 @@
 <img src="https://github.com/caomeicloud/url/blob/master/logo-shu.068cf5f9.png" width="30%" height="30%" style="text-align:center;">
 
-## CMYNetwork｜红莓网络 官网网址发布，请大家Ctrl+D收藏此页面避免丢失！
+# CMYNetwork｜红莓网络 网址发布页
+# 请阁下Ctrl+D收藏此页面避免丢失。
 
 ## 永久官网: <br>https://cmy.network
 ## 跳转页: <br>https://gotocmy.com
 
 
-# 无法打开请多刷新几遍，或者过几个小时再试，或者发邮件联系客服
-# 客服联系邮箱：cmdizhi#gmail.com #替换成@
+# 若无法打开官网请检查本地代理是否关闭，更换浏览器或使用手机4G网络尝试。
