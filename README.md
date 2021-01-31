@@ -1,7 +1,6 @@
 <img src="https://github.com/caomeicloud/url/blob/master/logo-shu.068cf5f9.png" width="30%" height="30%" style="text-align:center;">
 
-# CMYNetwork｜红莓网络 网址发布页
-# 请阁下Ctrl+D收藏此页面避免丢失。
+# CMYNetwork｜红莓网络 网址发布页<br>请阁下Ctrl+D收藏此页面避免丢失。
 
 ## 永久官网: <br>https://cmy.network
 ## 跳转页: <br>https://gotocmy.com
