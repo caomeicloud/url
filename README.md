@@ -1,3 +1,4 @@
+![image](https://github.com/caomeicloud/url/blob/master/logo-shu.068cf5f9.png)
 ## CMYNetwork｜红莓网络 官网网址发布，请大家Ctrl+D收藏此页面避免丢失！
 
 ## 永久官网: <br>https://cmy.network
