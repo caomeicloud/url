@@ -3,6 +3,8 @@
 # CMYNetwork｜红莓网络 网址发布页<br>请阁下Ctrl+D收藏此页面避免丢失。
 
 ## 永久官网: <br>https://cmy.network
+## 备用官网: <br>https://cmynetwork.com
+
 ## 跳转页: <br>https://gotocmy.com
 
 
