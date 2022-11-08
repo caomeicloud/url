@@ -2,9 +2,9 @@
 
 # CMYNetwork｜Red Berry Network Website Release Page<br>Please bookmark this page by Ctrl+D to avoid losing it.
 
-## Permanent official website: <br>https://cmy.network (Mainland China requires proxy access)
+## Permanent official website: <br>https://portal.cmy.network (Mainland China requires proxy access)
 
-## Alternate official website1: <br>https://cmy1.network (Direct chain access in Mainland China)
+## Alternate official website1: <br>https://www.cmynetwork.com(Direct chain access in Mainland China)
 ## Alternate official website2: <br>https://cmy3.network (Direct chain access in Mainland China)
 
 ## Jump page: <br>https://gotocmy.com
