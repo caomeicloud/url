@@ -5,7 +5,9 @@
 ## Permanent official website: <br>https://portal.cmy.network (Mainland China requires proxy access)
 
 ## Alternate official website1: <br>https://www.cmynetwork.com(Direct chain access in Mainland China)
-## Alternate official website2: <br>https://cmy3.network (Direct chain access in Mainland China)
+## Alternate official website2: <br>https://portalcmy1.network (Direct chain access in Mainland China)
+## Alternate official website3: <br>https://portalcmy2.network (Direct chain access in Mainland China)
+## Alternate official website4: <br>https://portalcmy3.network (Direct chain access in Mainland China)
 
 ## Jump page: <br>https://gotocmy.com
 
