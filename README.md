@@ -5,7 +5,7 @@
 ## Permanent official website: <br>https://cmy.network (Mainland China requires proxy access)
 
 ## Alternate official website1: <br>https://www.newcmy.com (Direct chain access in Mainland China)
-## Alternate official website4: <br>[https://cmy4.network](https://www.cmynetwork.com) (Direct chain access in Mainland China)
+## Alternate official website4: <br>[https://www.cmynetwork.com](https://www.cmynetwork.com) (Direct chain access in Mainland China)
 
 ## Jump page: <br>https://gotocmy.com
 
